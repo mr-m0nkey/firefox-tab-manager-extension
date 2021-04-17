@@ -3,7 +3,6 @@
     "name": "Tab Manager",
     "version": "0.1",
     "description": "Helps me manage my tabs",
-    //TODO add icons
     "content_scripts": [
         {
             "matches": ["*://*/*"],
